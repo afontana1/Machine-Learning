@@ -1,0 +1,18 @@
+# Comprehensive Introduction to Machine Learning
+
+1. [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
+2. [Elements of Statistical Learning](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks)
+3. [Introduction to Statistical Learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
+4. [multiply](https://github.com/puolival/multipy)
+5. [Introduction to Statistical Learning Lectures](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
+	* [ISLR Web Page](https://trevorhastie.github.io/ISLR/)
+	* [Python Implementation](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python)
+6. [Bayesian Modeling and computation in Python](https://bayesiancomputationbook.com/welcome.html)
+	* [Code](https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1)
+7. [Mining Massive Datasets](http://www.mmds.org/)
+8. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
+9. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+10. [NLP Index](https://index.quantumstat.com/) and [NLP Code](http://nlp.seas.harvard.edu/code/) and [Papers With code](https://paperswithcode.com/area/natural-language-processing)
+	* [NLP Tutorial](https://github.com/graykode/nlp-tutorial)
+	* [Awesome NLP References](https://github.com/JudePark96/awesome-nlp-references)
+	* [NLP Progress](https://github.com/sebastianruder/NLP-progress)
