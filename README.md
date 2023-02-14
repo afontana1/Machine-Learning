@@ -1,5 +1,9 @@
 # Comprehensive Introduction to Machine Learning
 
+- [Glossary of Artificial Intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
+- [Outline of Artificial Intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
+- [Artificial Intelligence Category](https://en.wikipedia.org/wiki/Category:Artificial_intelligence)
+
 1. [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
 2. [Elements of Statistical Learning](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks)
 3. [Introduction to Statistical Learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)
@@ -16,6 +20,8 @@
 	* [NLP Tutorial](https://github.com/graykode/nlp-tutorial)
 	* [Awesome NLP References](https://github.com/JudePark96/awesome-nlp-references)
 	* [NLP Progress](https://github.com/sebastianruder/NLP-progress)
+11. [cs470: Artificial Intelligence](https://zoo.cs.yale.edu/classes/cs470/syllabus.html) and [Lecture Slides](https://zoo.cs.yale.edu/classes/cs470/lectures/s2019/)
+12. [AI: A Modern Approach](https://aimacode.github.io/aima-javascript/)
 
 ## Useful Open Source Projects
 1. [Pytext](https://github.com/facebookresearch/pytext)
@@ -97,3 +103,11 @@
 77. [scikit-garden](https://github.com/scikit-garden/scikit-garden)
 78. [quantile-forest](https://github.com/zillow/quantile-forest)
 79. [doubt](https://github.com/saattrupdan/doubt)
+80. [Nowcast LSTM](https://github.com/dhopp1/nowcast_lstm)
+81. [Microprediction](https://github.com/microprediction/microprediction)
+82. [Python Nowcasting](https://github.com/MajesticKhan/Nowcasting-Python)
+83. [nowcasting](https://github.com/openclimatefix/nowcasting)
+84. [pysteps](https://github.com/pySTEPS/pysteps)
+85. [Artificial Intelligence Modern Approach - Scala](https://github.com/aimacode/aima-scala)
+86. [Artificial Intelligence Modern Approach - Python](https://github.com/aimacode/aima-python)
+87. [Linear Gaussian Bayesian Networks](https://github.com/ostwalprasad/LGNpy)
